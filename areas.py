@@ -11,3 +11,11 @@ def areaRectangulo():
     altura=float(input("ingrese el valor de la altura: "))
     return print("El area del rectangulo es: ", base * altura)
 areaRectangulo()
+
+pi=3,1416
+
+def areaCirculo():
+    radio=float(input("ingrese el valor del radio: "))
+    altura=float(input("ingrese el valor de la altura: "))
+    return print("El area del circulo es: ", pi * radio **2)
+areaCirculo()
