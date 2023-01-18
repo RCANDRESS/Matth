@@ -10,7 +10,7 @@ def perRectangulo():
     return print("El area del rectangulo es: ", 2 * base + 2* altura)
 perRectangulo()
 
-pi=3,1416
+pi=3,141600000
 
 def perCirculo():
     radio=float(input("ingrese el valor del radio: "))
